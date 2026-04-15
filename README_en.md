@@ -4,7 +4,7 @@
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-064f8c)
 ![License](https://img.shields.io/badge/License-MPL--2.0-brightgreen)
 
-[📄 中文文档](README.zh.md)
+[📄 中文文档](README.md)
 
 A C++23 Minecraft Bedrock network protocol library.
 
